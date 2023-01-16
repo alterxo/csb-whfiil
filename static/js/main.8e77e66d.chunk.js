@@ -1,0 +1,2 @@
+(this.webpackJsonpurl=this.webpackJsonpurl||[]).push([[0],{12:function(t,s,c){},14:function(t,s,c){"use strict";c.r(s);var e=c(1),p=c(3),n=(c(12),c(0));function r(){return Object(n.jsx)("div",{className:"App",children:Object(n.jsx)("h1",{children:"https://9gvs8s.csb.app/ https://bvtngp.csb.app/ https://zpl7i4.csb.app/ https://x9g9vq.csb.app/"})})}var b=document.getElementById("root");Object(p.createRoot)(b).render(Object(n.jsx)(e.StrictMode,{children:Object(n.jsx)(r,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.8e77e66d.chunk.js.map
